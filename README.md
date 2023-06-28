@@ -1,1 +1,2 @@
-# Real-Estate-Price-Predictor
+# Project
+Mini Project
